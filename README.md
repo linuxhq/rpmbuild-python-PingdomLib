@@ -1,6 +1,6 @@
 # rpmbuild-python-pingdomlib
 
-[![Package Cloud](https://img.shields.io/badge/packagecloud-pingdomlib-blue.svg?style=flat)](https://packagecloud.io/linuxhq/pingdomlib)
+[![Package Cloud](https://img.shields.io/badge/packagecloud-python--pingdomlib-blue.svg?style=flat)](https://packagecloud.io/linuxhq/python-pingdomlib)
 [![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](COPYING)
 
 Create a python-pingdomlib RPM for RHEL/CentOS.
