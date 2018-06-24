@@ -19,7 +19,7 @@ To build the package follow the steps outlined below
     source /etc/os-release
     tmp=$(mktemp -d)
 
-    git clone https://github.com/linuxhq/rpmbuild-pingdomlib.git ${tmp}
+    git clone https://github.com/linuxhq/rpmbuild-python-pingdomlib.git ${tmp}
     mkdir -p ${tmp}/{SOURCES,SRPMS}
     spectool -g -C ${tmp}/SOURCES ${tmp}/SPECS/*.spec
 
